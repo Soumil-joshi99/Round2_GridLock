@@ -1,0 +1,15 @@
+{
+  "hour": 607,
+  "day_of_week": 121,
+  "is_weekend": 0,
+  "month": 15,
+  "hours_since_start": 538,
+  "lag_24h": 193,
+  "lag_168h": 305,
+  "is_named_junction": 38,
+  "hex_hist_mean": 478,
+  "hex_neighbor_spillover": 155,
+  "hex_wrong_pct": 101,
+  "hex_footpath_pct": 77,
+  "hex_severity_avg": 144
+}
